@@ -1,0 +1,5 @@
+start_date,end_date,account_timezone,attribution_window,campaign,ad_group,target,search_term,match_type,impressions,clicks,spend_usd,sales_usd,orders,contribution_margin,target_acos
+2026-10-01,2026-10-07,America/Los_Angeles,7d,FICTIONAL,Demo,demo-a,demo-a,EXACT,1000,30,20,0,0,0.35,0.25
+2026-10-01,2026-10-07,America/Los_Angeles,7d,FICTIONAL,Demo,demo-b,demo-b,EXACT,1000,40,30,60,4,0.35,0.25
+2026-10-01,2026-10-07,America/Los_Angeles,7d,FICTIONAL,Demo,demo-c,demo-c,EXACT,1000,60,18,120,6,0.35,0.25
+2026-10-01,2026-10-07,America/Los_Angeles,7d,FICTIONAL,Demo,demo-d,demo-d,EXACT,1000,3,1,0,0,0.35,0.25

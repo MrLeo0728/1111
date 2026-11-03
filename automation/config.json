@@ -1,0 +1,5 @@
+{
+  "min_clicks": 20,
+  "no_order_spend_usd": 15,
+  "scale_min_orders": 3
+}

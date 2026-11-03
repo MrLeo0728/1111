@@ -1,0 +1,5 @@
+concept_id,direction,target_customer,scenario,pain_evidence,competitor_gap,pack_qty,style_mix,material_process,target_price_usd,target_landed_cost_usd,moq,lead_days,commercial_score,production_score,ip_score,weighted_score,ip_status,ip_evidence,fatal_blocker,validation,decision
+A,数量价值,,,,,,,,,,,,,,,,未检索,,,单位价与体积成本测算,待验证
+B,场景组合,,,,,,,,,,,,,,,,未检索,,,场景覆盖与重复款偏好测试,待验证
+C,功能体验,,,,,,,,,,,,,,,,未检索,,,打样及功能质检,待验证
+D,设计礼赠,,,,,,,,,,,,,,,,未检索,,,原创设计与包装偏好测试,待验证
